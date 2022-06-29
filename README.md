@@ -30,5 +30,5 @@
 ---------
 
 <p align="center">
-    <img src="https://github.com/Squifordl/Squifordl/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/Squifordl/Squifordl/blob/main/github-contribution-grid-snake.svg" />
 </p>
