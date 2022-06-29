@@ -22,3 +22,13 @@
 
 ----------
 
+<h3 align="center">📍 Profile Visitor Count</h3>
+<p align="center">
+    <img src="https://profile-counter.glitch.me/Squiford/count.svg" />
+</p>
+
+---------
+
+<p align="center">
+    <img src="https://github.com/Squifordl/Squifordl/blob/output/github-contribution-grid-snake.svg" />
+</p>
