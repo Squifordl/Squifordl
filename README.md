@@ -1,4 +1,4 @@
-<a href="https://netsales.netservicos.com.br" target="_blank">
+<a href="https://wakatime.com/@Squiford" target="_blank">
 	<p align="center">
 	<img width="50%" align="center" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Squiford&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=d900ad&icon_color=58a6ff&show_icons=true&custom_title=Weekly%20Stats">
 	</p>
