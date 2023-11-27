@@ -6,14 +6,6 @@
 
 ----------
 
-<h3 align="center">⚡ Recent GitHub Activity</h3>
-<br />
-<a href="https://github.com/Squifordl"><img
-        src="https://activity-graph.herokuapp.com/graph?username=Squifordl&custom_title=Squifordl's%20Contribution%20Graph&theme=react-dark" /></a>
-<br />
-
-----------
-
 <h3 align="center">📍 Profile Visitor Count</h3>
 <p align="center">
     <img src="https://profile-counter.glitch.me/Squiford/count.svg" />
